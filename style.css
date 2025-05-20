@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    margin:0;
+    padding:0;
+}
+
+#navbar{
+    background-color: #333;
+    color: white;
+    padding: 10px;
+
+}
+
+#nav-list{
+    display:flex;
+    justify-content: space-evenly;
+    list-style-type:none;
+    font-size: 1.5rem;
+}
